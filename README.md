@@ -1,6 +1,9 @@
 MiniEAP-GDUFS
 =======
 
+2022.4.28进行对南苑十三栋的适配
+进度：进行中......
+
 **⚠已知问题：在某些区域无法通过认证，详见[issue#1](https://github.com/jimlee2002/minieap-gdufs/issues/1)**
 
 修改自 [@updateing](https://github.com/updateing)/**[minieap](https://github.com/updateing/minieap)**，使其适用于 GDUFS。
